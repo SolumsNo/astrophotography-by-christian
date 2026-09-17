@@ -1,0 +1,12 @@
+NOVA VIA YOUTUBE
+
+Video:
+https://youtu.be/Dz_Pn7RU4vY
+
+Erstatt disse tre filene:
+- src/App.jsx
+- src/styles.css
+- src/gallery.js
+
+Du kan slette nova.m4v / nova.mp4 fra prosjektet.
+Nova-videoen ligger sist i galleriet med play-symbol og åpnes i en innebygd YouTube-spiller.
